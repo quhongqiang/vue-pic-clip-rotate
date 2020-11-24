@@ -1,5 +1,6 @@
 # vue-pic-clip-rotate
 
+![效果图](https://github.com/quhongqiang/vue-pic-clip-rotate/src/img/GIF.gif)
 ## Project setup
 ```
 yarn install
@@ -21,4 +22,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
